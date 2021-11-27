@@ -214,5 +214,16 @@ justify-content: center;
 .contact__right{
 padding:60px;
 padding-right: 230px;
-}  
+} 
+.contact__bottom{
+  color: white;
+  display: flex;
+  margin-top: 90px;
+}
+.contact__bottom__left{
+  margin-left: 100px;
+}
+.contact__bottom__right{
+  margin-left: 720px;
+}
 
